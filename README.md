@@ -8,3 +8,4 @@
   2) In the terminal, run `npm install`
   3) Run `npm start` to view project in browser
   # Frontend-Redesign-Pharapaser-IO
+![image](https://github.com/user-attachments/assets/cf9f0e05-7b9e-4cbd-bcf8-aeec55b3bee7)
