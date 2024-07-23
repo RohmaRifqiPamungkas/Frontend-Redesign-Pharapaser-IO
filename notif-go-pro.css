@@ -1,0 +1,128 @@
+.upgrade-to {
+  flex: 1;
+  position: relative;
+}
+.upgrade-to-wrapper {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.opening-this-mode {
+  flex: 1;
+  position: relative;
+  font-weight: 600;
+}
+.opening-this-mode-is-a-must-wrapper {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  font-size: var(--font-size-sm);
+  color: #d3dae0;
+}
+.frame-parent19 {
+  align-self: stretch;
+  border-radius: var(--br-5xs) var(--br-5xs) 0 0;
+  background-color: var(--background-color);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  padding: var(--padding-29xl) var(--padding-13xl) var(--padding-13xl);
+  gap: var(--gap-21xl);
+}
+.go-pro1 {
+  flex: 1;
+  position: relative;
+  font-weight: 800;
+}
+.go-pro-wrapper {
+  flex: 1;
+  border-radius: var(--br-9xs);
+  background-color: var(--warning-yellow-light);
+  height: 38px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-3xs);
+  box-sizing: border-box;
+  cursor: pointer;
+}
+.back {
+  flex: 1;
+  position: relative;
+  font-weight: 800;
+}
+.back-wrapper {
+  flex: 1;
+  border-radius: var(--br-9xs);
+  background-color: var(--primary-color-medium);
+  height: 38px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-3xs);
+  box-sizing: border-box;
+}
+.frame-parent18,
+.frame-parent20 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-parent20 {
+  align-self: stretch;
+  border-radius: 0 0 var(--br-5xs) var(--br-5xs);
+  background-color: #f1f5f8;
+  flex-direction: row;
+  padding: var(--padding-base) var(--padding-5xl);
+  gap: var(--gap-5xl);
+  font-size: var(--font-size-sm);
+  color: var(--background-color);
+}
+.frame-parent18 {
+  position: absolute;
+  top: 60px;
+  left: 0;
+  width: 355px;
+  flex-direction: column;
+}
+.asset-icons91 {
+  width: 40px;
+  position: relative;
+  height: 40px;
+}
+.asset-icons-wrapper {
+  position: absolute;
+  top: 0;
+  left: 128px;
+  border-radius: 50px;
+  background-color: var(--warning-yellow-light);
+  border: 3px solid #f7bdbd;
+  box-sizing: border-box;
+  width: 100px;
+  height: 100px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-11xl);
+}
+.notif-go-pro {
+  width: 355px;
+  position: relative;
+  filter: drop-shadow(-1px -2px 23.9px rgba(0, 0, 0, 0.25));
+  height: 307px;
+  max-width: 90%;
+  max-height: 90%;
+  overflow: auto;
+  text-align: center;
+  font-size: var(--font-size-5xl);
+  color: #7c8691;
+  font-family: var(--display-l);
+}
